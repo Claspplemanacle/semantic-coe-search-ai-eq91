@@ -1,4 +1,4 @@
-# 
+# Nativo Semantic Code Search plugins. Con implementación de modelos y sincronización en la nube — optimizado para el máximo rendimiento y eficiencia.
 
 
 
